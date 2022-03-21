@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **GraphQL**
 
-- 👨‍💻 Some of my recents projects are available at [https://portfolio-ayodele.vercel.app/](https://portfolio-ayodele.vercel.app/)
+- 👨‍💻 Some of my recent projects are available at [https://portfolio-ayodele.vercel.app/](https://portfolio-ayodele.vercel.app/)
 
 - 💬 Ask me about **React, Vue, & Arsenal FC**
 
